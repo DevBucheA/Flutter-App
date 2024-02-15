@@ -1,0 +1,56 @@
+# ninja log v5
+26294	57230	1684148655234883060	CMakeFiles/grouplab.dir/my_application.cc.o	d2a806d919410913
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_engine.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	66c9b2856b821aac
+78470	85652	1683544886400010376	CMakeFiles/grouplab.dir/main.cc.o	6157fb1d18b4a83d
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/build/linux/x64/debug/flutter/_phony_	66c9b2856b821aac
+6	26293	0	flutter/_phony_	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_value.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/libflutter_linux_gtk.so	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_view.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	66c9b2856b821aac
+57230	59937	1684148657974869646	intermediates_do_not_run/grouplab	fee2f437bd9ddb36
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	66c9b2856b821aac
+59937	60586	0	CMakeFiles/install.util	fde9446de649b473
+26294	55983	1684148653878889699	CMakeFiles/grouplab.dir/flutter/generated_plugin_registrant.cc.o	615ae8667fb68053
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	66c9b2856b821aac
+6	26293	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/libflutter_linux_gtk.so	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_engine.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_value.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/fl_view.h	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	66c9b2856b821aac
+5	4214	0	flutter/_phony_	66c9b2856b821aac
+5	4214	0	/home/yosef/Documents/Mobile app/Mobile_lab/grouplab/build/linux/x64/debug/flutter/_phony_	66c9b2856b821aac
+4220	5094	1684149149864461547	CMakeFiles/grouplab.dir/flutter/generated_plugin_registrant.cc.o	615ae8667fb68053
+4220	5142	1684149149908461332	CMakeFiles/grouplab.dir/my_application.cc.o	d2a806d919410913
+5143	5344	1684149150116460313	intermediates_do_not_run/grouplab	fee2f437bd9ddb36
+5344	5580	0	CMakeFiles/install.util	fde9446de649b473
