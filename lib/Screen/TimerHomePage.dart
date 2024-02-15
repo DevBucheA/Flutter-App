@@ -7,8 +7,9 @@ import './settingScreen.dart';
 
 class TimerHomePage extends StatelessWidget {
   final double defaultPadding = 5.0;
-  final CountDownTimer timer = CountDownTimer();
+  final CountDownTimer timer = CountDownTimer(); 
   TimerHomePage({super.key});
+
 
   void gotoSettings(BuildContext context) {
     Navigator.push(
